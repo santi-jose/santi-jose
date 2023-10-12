@@ -1,4 +1,4 @@
-# 'Hello World!'
+# `cout << "Hello World!" << endl;`
 
 ## My name is Jose Luis Santiago but I go by Santi! I enjoy video games, photography, and pixel art. I am currently learning C# and the Godot game engine to make video games! 
 
