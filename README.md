@@ -4,7 +4,7 @@
 
 ## My name is Jose Luis Santiago but I go by Santi! I enjoy video games, photography, and pixel art. I aim to be a software engineer for a video game company. I am currently learning C# and the Godot game engine to make video games! 
 
-
+![Check out my website!]{https://santi-jose.github.io/}
 
 <!--
 **santi-jose/santi-jose** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
