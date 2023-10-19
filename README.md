@@ -1,6 +1,7 @@
 # Jose Luis Santiago
-## Software Engineer
-### `Hello World!`
+# Software Engineer
+# Los Angeles, California
+## `Hello World!`
 
 <img width=100% src="https://raw.githubusercontent.com/santi-jose/santi-jose/main/walking_right_reference-export.png" alt="Sprite sheet reference image for walking right.">
 
