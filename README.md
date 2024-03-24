@@ -1,6 +1,4 @@
 # `Hello World!`
-
-# About Me
 ## Jose Luis Santiago
 ### Software Engineer
 ### Los Angeles, California
