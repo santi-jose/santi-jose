@@ -59,7 +59,8 @@ Thanks for visiting my GitHub! You'll find some awesome projects I've worked on 
     <tr align="center">
       <td><h4>IoT Wildfire Alarm System</h4></td>
       <td><h4>Logic Design Lab 7</h4></td>
-      <td><h4>Sensors and Sensing Systems Lab 2</h4></td>
+      <td><a href="https://github.com/santi-jose/Sensing-SensorTechnologies">
+<h4>Sensors and Sensing Systems Lab 2</h4></td></a>
     </tr>
     <tr>
       <td>
@@ -81,7 +82,6 @@ Thanks for visiting my GitHub! You'll find some awesome projects I've worked on 
         <img src="https://santi-jose.github.io/images/CSE100_lab7_drivesm.jpg">
       </td>
       <td>
-        <a href="https://github.com/santi-jose/Sensing-SensorTechnologies">
         This lab was an introduction to quadrature encoders, time based sensors, and capacitive
         sensors. The quadrature encoder used in this lab is a rotary switch with an RGB LED. The
         objective for this device is to implement the quadrature encoder interface (QEI) to determine the
@@ -91,8 +91,7 @@ Thanks for visiting my GitHub! You'll find some awesome projects I've worked on 
         to experiment with several techniques to measure change in capacitance. Every sensor will
         need modular non-blocking code developed for the sensor, enabling the user to interact with
         them and read them.
-        <img src="https://santi-jose.github.io/images/CapacitiveTouchSensor_LP_Bridge_DiffAmp_LM555.png">
-        </a>
+        <img href="https://github.com/santi-jose/Sensing-SensorTechnologies" src="https://santi-jose.github.io/images/CapacitiveTouchSensor_LP_Bridge_DiffAmp_LM555.png">
       </td>
     </tr>
   </tbody>
