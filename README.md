@@ -27,7 +27,7 @@ Thanks for visiting my GitHub! You'll find some awesome projects I've worked on 
 
 <h2>Specialties</h2>
 <table>
-  <thead >
+  <thead>
     <tr align="center">
       <td><h3>Embedded Programming</h3></td>
       <td><h3>Web Development</h3></td>
@@ -50,7 +50,7 @@ Thanks for visiting my GitHub! You'll find some awesome projects I've worked on 
 
 <h2>Projects</h2>
 <table>
-  <thead>
+  <thead colspan="3">
     <trow>
       <td>
         Embedded Systems
