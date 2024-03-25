@@ -27,13 +27,13 @@ Thanks for visiting my GitHub! You'll find some awesome projects I've worked on 
 
 <h2>Specialties</h2>
 <table>
-  <th>
+  <thead>
     <tr align="center">
-      <td><h3>Embedded Programming</h3></td>
-      <td><h3>Web Development</h3></td>
-      <td><h3>Game Development</h3></td>
+      <th><h3>Embedded Programming</h3></th>
+      <th><h3>Web Development</h3></th>
+      <th><h3>Game Development</h3></th>
     </tr>
-  </th>
+  </thead>
 
   <tbody>
     <tr>
@@ -50,13 +50,13 @@ Thanks for visiting my GitHub! You'll find some awesome projects I've worked on 
 
 <h2>Projects</h2>
 <table>
-  <th colspan="3">
+  <thead>
     <tr>
-      <td>
+      <th colspan="3">
         Embedded Systems
-      </td>
+      </th>
     </tr>
-  </th>
+  </thead>
   <tbody>
     <tr>
       <td>
