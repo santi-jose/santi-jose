@@ -99,7 +99,7 @@ Thanks for visiting my GitHub! You'll find some awesome projects I've worked on 
 <h2>Contact Me!</h2>
 <ul>
   <li>LinkedIn: <a href="https://www.linkedin.com/in/j-santi/">https://www.linkedin.com/in/j-santi/</a></li>
-  <li><a href="mailto: jlsantia21@gmail.com">Email: jlsantia21@gmail.com </a></li>
+  <li>Email: <a href="mailto: jlsantia21@gmail.com">jlsantia21@gmail.com </a></li>
   <li><a href="https://santi-jose.github.io/">Check out my website!</a></li>
 </ul>
 
