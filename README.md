@@ -27,13 +27,13 @@ Thanks for visiting my GitHub! You'll find some awesome projects I've worked on 
 
 <h2>Specialties</h2>
 <table>
-  <thead>
+  <th>
     <tr align="center">
       <td><h3>Embedded Programming</h3></td>
       <td><h3>Web Development</h3></td>
       <td><h3>Game Development</h3></td>
     </tr>
-  </thead>
+  </th>
 
   <tbody>
     <tr>
@@ -50,13 +50,13 @@ Thanks for visiting my GitHub! You'll find some awesome projects I've worked on 
 
 <h2>Projects</h2>
 <table>
-  <thead colspan="3">
+  <th colspan="3">
     <tr>
       <td>
         Embedded Systems
       </td>
     </tr>
-  </thead>
+  </th>
   <tbody>
     <tr>
       <td>
@@ -77,7 +77,7 @@ Thanks for visiting my GitHub! You'll find some awesome projects I've worked on 
         Led team of 2 in charge of microcontroller system design and implementation of sensors
       </td>
       <td>
-        The purpose of this lab is to design a sequential circuit to program our Basys 3 board to
+        The purpose of this lab was to design a sequential circuit to program our Basys 3 board to
         play the game “Rainbow Road.” The Basys board has a VGA output to enable a The objective of the
         game is to keep a car on the Rainbow Road. The road randomly generates at the top of the screen as the
         car drives up the road. The buttons btnL and btnR on the Basys board control the left and right steering
