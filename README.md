@@ -78,24 +78,24 @@ Thanks for visiting my GitHub! You'll find some awesome projects I've worked on 
       </td>
       <td>
         The purpose of this lab is to design a sequential circuit to program our Basys 3 board to
-play the game “Rainbow Road.” The Basys board has a VGA output to enable a The objective of the
-game is to keep a car on the Rainbow Road. The road randomly generates at the top of the screen as the
-car drives up the road. The buttons btnL and btnR on the Basys board control the left and right steering
-of the car. As long as any portion of the car remains on the road, the game continues. The score
-increments as long as the car remains on the road as well. The game ends once the car fails to make
-contact with any of the road. The difficulty of the game can be increased by using switches 4-6 to dictate
-the width of our road segments. 
+        play the game “Rainbow Road.” The Basys board has a VGA output to enable a The objective of the
+        game is to keep a car on the Rainbow Road. The road randomly generates at the top of the screen as the
+        car drives up the road. The buttons btnL and btnR on the Basys board control the left and right steering
+        of the car. As long as any portion of the car remains on the road, the game continues. The score
+        increments as long as the car remains on the road as well. The game ends once the car fails to make
+        contact with any of the road. The difficulty of the game can be increased by using switches 4-6 to dictate
+        the width of our road segments. 
       </td>
       <td>
         This lab was an introduction to quadrature encoders, time based sensors, and capacitive
-sensors. The quadrature encoder used in this lab is a rotary switch with an RGB LED. The
-objective for this device is to implement the quadrature encoder interface (QEI) to determine the
-position of the encoder and drive the color of the RGB LED as appropriate. The time based
-PING sensor will be used to measure the distance of the sensor to various objects. The PING
-sensor will have to be linearized using Least Squares. The capacitive touch sensor will be used
-to experiment with several techniques to measure change in capacitance. Every sensor will
-need modular non-blocking code developed for the sensor, enabling the user to interact with
-them and read them.
+        sensors. The quadrature encoder used in this lab is a rotary switch with an RGB LED. The
+        objective for this device is to implement the quadrature encoder interface (QEI) to determine the
+        position of the encoder and drive the color of the RGB LED as appropriate. The time based
+        PING sensor will be used to measure the distance of the sensor to various objects. The PING
+        sensor will have to be linearized using Least Squares. The capacitive touch sensor will be used
+        to experiment with several techniques to measure change in capacitance. Every sensor will
+        need modular non-blocking code developed for the sensor, enabling the user to interact with
+        them and read them.
       </td>
     </trow>
   </tbody>
