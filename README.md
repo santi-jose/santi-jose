@@ -98,11 +98,9 @@ Thanks for visiting my GitHub! You'll find some awesome projects I've worked on 
 
 <h2>Contact Me!</h2>
 <ul>
-  <li href="https://www.linkedin.com/in/j-santi/">LinkedIn: santi-jose</li>
-  <li href="mail to: jlsantia21@gmail.com">Email: jlsantia21@gmail.com</li>
-  <li>
-    <a href="https://santi-jose.github.io/">Check out my website!</a>
-  </li>
+  <li><a href="https://www.linkedin.com/in/j-santi/">LinkedIn: https://www.linkedin.com/in/j-santi/</a></li>
+  <li><a href="mail to: jlsantia21@gmail.com">Email: jlsantia21@gmail.com </a></li>
+  <li><a href="https://santi-jose.github.io/">Check out my website!</a></li>
 </ul>
 
 
