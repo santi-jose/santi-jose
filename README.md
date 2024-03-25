@@ -67,6 +67,7 @@ Thanks for visiting my GitHub! You'll find some awesome projects I've worked on 
         Completed research, specification, planning, and procurement of our IOT device.
         Took charge of writing technical documentation of project from conception to prototype.
         Led team of 2 in charge of microcontroller system design and implementation of sensors
+        <img src="https://santi-jose.github.io/images/wildfire_alarm_prototype.png">
       </td>
       <td>
         The purpose of this lab was to design a sequential circuit to program our Basys 3 board to
@@ -77,6 +78,7 @@ Thanks for visiting my GitHub! You'll find some awesome projects I've worked on 
         increments as long as the car remains on the road as well. The game ends once the car fails to make
         contact with any of the road. The difficulty of the game can be increased by using switches 4-6 to dictate
         the width of our road segments. 
+        <img src="https://santi-jose.github.io/images/CSE100_lab7_drivesm.jpg">
       </td>
       <td>
         This lab was an introduction to quadrature encoders, time based sensors, and capacitive
@@ -88,6 +90,7 @@ Thanks for visiting my GitHub! You'll find some awesome projects I've worked on 
         to experiment with several techniques to measure change in capacitance. Every sensor will
         need modular non-blocking code developed for the sensor, enabling the user to interact with
         them and read them.
+        <img src="https://santi-jose.github.io/images/CapacitiveTouchSensor_LP_Bridge_DiffAmp_LM555.png">
       </td>
     </tr>
   </tbody>
