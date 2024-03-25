@@ -57,8 +57,8 @@ Thanks for visiting my GitHub! You'll find some awesome projects I've worked on 
   </thead>
   <tbody>
     <tr align="center">
-      <td><h4>IoT Wildfire Alarm System</h4></td>
-      <td><h4>Logic Design Lab 7</h4></td>
+      <td><h4><a href="https://santi-jose.github.io/reports/CSE123_DesignDocument.pdf">IoT Wildfire Alarm System</h4></td>
+      <td><h4><a href="https://github.com/santi-jose/LogicDesign/tree/main/Lab7">Logic Design Lab 7</a></h4></td>
       <td><h4><a href="https://github.com/santi-jose/Sensing-SensorTechnologies">Sensors and Sensing Systems Lab 2</a></h4></td>
     </tr>
     <tr>
@@ -67,7 +67,7 @@ Thanks for visiting my GitHub! You'll find some awesome projects I've worked on 
         Completed research, specification, planning, and procurement of our IOT device.
         Took charge of writing technical documentation of project from conception to prototype.
         Led team of 2 in charge of microcontroller system design and implementation of sensors
-        <img src="https://santi-jose.github.io/images/wildfire_alarm_prototype.png">
+        <img href="https://santi-jose.github.io/reports/CSE123_DesignDocument.pdf" src="https://santi-jose.github.io/images/wildfire_alarm_prototype.png">
       </td>
       <td>
         The purpose of this lab was to design a sequential circuit to program our Basys 3 board to
@@ -78,7 +78,7 @@ Thanks for visiting my GitHub! You'll find some awesome projects I've worked on 
         increments as long as the car remains on the road as well. The game ends once the car fails to make
         contact with any of the road. The difficulty of the game can be increased by using switches 4-6 to dictate
         the width of our road segments. 
-        <img src="https://santi-jose.github.io/images/CSE100_lab7_drivesm.jpg">
+        <img href="https://github.com/santi-jose/LogicDesign/tree/main/Lab7" src="https://santi-jose.github.io/images/CSE100_lab7_drivesm.jpg">
       </td>
       <td>
         This lab was an introduction to quadrature encoders, time based sensors, and capacitive
@@ -98,7 +98,7 @@ Thanks for visiting my GitHub! You'll find some awesome projects I've worked on 
 
 <h2>Contact Me!</h2>
 <ul>
-  <li><a href="https://www.linkedin.com/in/j-santi/">LinkedIn: https://www.linkedin.com/in/j-santi/</a></li>
+  <li>LinkedIn: <a href="https://www.linkedin.com/in/j-santi/">https://www.linkedin.com/in/j-santi/</a></li>
   <li><a href="mailto: jlsantia21@gmail.com">Email: jlsantia21@gmail.com </a></li>
   <li><a href="https://santi-jose.github.io/">Check out my website!</a></li>
 </ul>
