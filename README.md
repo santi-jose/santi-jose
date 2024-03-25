@@ -1,4 +1,5 @@
 <h1>Hello World</h1>
+Thanks for visiting my GitHub!
 <h2>Jose Luis Santiago</h2>
 <h3>Software Engineer</h3>
 <h3>Los Angeles California</h3>
@@ -23,7 +24,7 @@
   inspire others the way video games inspired me.
 </p>
 
-
+<h2>Specialties</h2>
 <table>
   <thead >
     <tr align="center">
