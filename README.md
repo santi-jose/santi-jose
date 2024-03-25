@@ -59,8 +59,7 @@ Thanks for visiting my GitHub! You'll find some awesome projects I've worked on 
     <tr align="center">
       <td><h4>IoT Wildfire Alarm System</h4></td>
       <td><h4>Logic Design Lab 7</h4></td>
-      <td><a href="https://github.com/santi-jose/Sensing-SensorTechnologies">
-<h4>Sensors and Sensing Systems Lab 2</h4></a></td>
+      <td href="https://github.com/santi-jose/Sensing-SensorTechnologies"><h4>Sensors and Sensing Systems Lab 2</h4></td>
     </tr>
     <tr>
       <td>
