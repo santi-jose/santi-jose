@@ -36,7 +36,7 @@ Thanks for visiting my GitHub! You'll find some awesome projects I've worked on 
   </thead>
 
   <tbody>
-    <trow>
+    <tr>
       <td><p>During my time in undergrad at UCSC, my Computer Engineering concentration was in Robotics and Control. I learned advanced programming in C++ and Embedded Programming in C. My senior capstone was an IoT device which monitored parameters indicative of wildfire risk. I was on the hardware team responsible for implementing the microcontroller and sensors. </p></td>
       <td>
         <p>I was introduced to Web Development after graduating from college via a 1 month internship with a startup, Arrow. I led a 3-intern group to create an MVP of an e-commerce website for heavy machinery. By the end of the month we successfully created a prototype with Stripe API implementation. I am also currently a Web Development Fellow with The Knowledge House.</p>
@@ -44,21 +44,21 @@ Thanks for visiting my GitHub! You'll find some awesome projects I've worked on 
       <td>
         <p>Video games are what sparked my curiosity for technology and led to my journey in tech. I want to create a game that moves people the way games like Super Mario World and Pokemon moved me. Since graduating I've been working on an independent game project as the sole developer. The title of the game is Purgatory. It is a pixel art RPG of a typical hero's journey through a post-capitalist society.    </p>
       </td>
-    </trow>
+    </tr>
   </tbody>
 </table>
 
 <h2>Projects</h2>
 <table>
   <thead colspan="3">
-    <trow>
+    <tr>
       <td>
         Embedded Systems
       </td>
-    </trow>
+    </tr>
   </thead>
   <tbody>
-    <trow>
+    <tr>
       <td>
         IoT Wildfire Alarm System
       </td>
@@ -68,8 +68,8 @@ Thanks for visiting my GitHub! You'll find some awesome projects I've worked on 
       <td>
         Sensors and Sensing Systems Lab 2
       </td>
-    </trow>
-    <trow>
+    </tr>
+    <tr>
       <td>
         Built a wildfire alarm system prototype in a team of 5 to warn of wildfire risk.
         Completed research, specification, planning, and procurement of our IOT device.
@@ -97,7 +97,7 @@ Thanks for visiting my GitHub! You'll find some awesome projects I've worked on 
         need modular non-blocking code developed for the sensor, enabling the user to interact with
         them and read them.
       </td>
-    </trow>
+    </tr>
   </tbody>
 </table>
 
