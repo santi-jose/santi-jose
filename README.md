@@ -1,8 +1,10 @@
 <h1>Hello World</h1>
 Thanks for visiting my GitHub! You'll find some awesome projects I've worked on here! Feel free to contact me with any questions or inquiries. 
+<div>
 <h2>Jose Luis Santiago</h2>
 <h3>Software Engineer</h3>
-<h3>Los Angeles California</h3>
+<h3>Los Angeles, California</h3>
+</div>
 
 <img width=100% src="https://raw.githubusercontent.com/santi-jose/santi-jose/main/walking_right_reference-export.png" alt="Sprite sheet reference image for walking right.">
 
