@@ -24,10 +24,7 @@
 </p>
 
 
-<div style="
-  border: 4px solid white;
-  
-">
+<div style="border: 4px solid white; ">
 <h3>Embedded Programming</h3>
 <p>During my time in undergrad at UCSC, my Computer Engineering concentration was in Robotics and Control. I learned advanced programming in C++ and Embedded Programming in C. My senior capstone was an IoT device which monitored parameters indicative of wildfire risk. I was on the hardware team responsible for implementing the microcontroller and sensors. </p>
 </div>
