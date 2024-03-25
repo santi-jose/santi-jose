@@ -52,22 +52,14 @@ Thanks for visiting my GitHub! You'll find some awesome projects I've worked on 
 <table>
   <thead>
     <tr>
-      <th colspan="3">
-        Embedded Systems
-      </th>
+      <th colspan="3"><h3>Embedded Systems</h3></th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td>
-        IoT Wildfire Alarm System
-      </td>
-      <td>
-        Logic Design Lab 7
-      </td>
-      <td>
-        Sensors and Sensing Systems Lab 2
-      </td>
+      <td>IoT Wildfire Alarm System</td>
+      <td>Logic Design Lab 7</td>
+      <td>Sensors and Sensing Systems Lab 2</td>
     </tr>
     <tr>
       <td>
