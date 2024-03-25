@@ -5,27 +5,23 @@
 
 <img width=100% src="https://raw.githubusercontent.com/santi-jose/santi-jose/main/walking_right_reference-export.png" alt="Sprite sheet reference image for walking right.">
 
-<div className="heroParagraph">
-      <h2>About Me</h2>
-      <p>
-        My name is <span className="important">Jose Luis Santiago</span> and I am a Computer Engineering
-        graduate from UCSC with a background in Embedded Systems and
-        Web Development. I am currently studying Web Development
-        through The Knowledge House fellowship. My preferred
-        programming languages are C++ and JavaScript. One
-        accomplishment I am proud of is how I led a group of 3 to
-        complete a full stack e-commerce website within a 1-month
-        timeframe. 
-      </p>
-      <p>
-        Inspired by a childhood love for games, I’m eager
-        to apply my technical skills to a role where my patience and
-        competitive nature can drive impactful solutions. I aim to
-        inspire others the way video games inspired me.
-      </p>
-    </div>
-  </div>
-</div>
+<h2>About Me</h2>
+<p>
+  My name is Jose Luis Santiago and I am a Computer Engineering
+  graduate from UCSC with a background in Embedded Systems and
+  Web Development. I am currently studying Web Development
+  through The Knowledge House fellowship. My preferred
+  programming languages are C++ and JavaScript. One
+  accomplishment I am proud of is how I led a group of 3 to
+  complete a full stack e-commerce website within a 1-month
+  timeframe. 
+</p>
+<p>
+  Inspired by a childhood love for games, I’m eager
+  to apply my technical skills to a role where my patience and
+  competitive nature can drive impactful solutions. I aim to
+  inspire others the way video games inspired me.
+</p>
 
 
 <div className="expCard">
@@ -43,7 +39,7 @@
 <p>Video games are what sparked my curiosity for technology and led to my journey in tech. I want to create a game that moves people the way games like Super Mario World and Pokemon moved me. Since graduating I've been working on an independent game project as the sole developer. The title of the game is Purgatory. It is a pixel art RPG of a typical hero's journey through a post-capitalist society.    </p>
 </div>
 
-[Check out my website!](https://santi-jose.github.io/)
+<a href="https://santi-jose.github.io/">Check out my website!</a>
 
 <!--
 **santi-jose/santi-jose** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
