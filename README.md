@@ -1,5 +1,5 @@
 <h1>Hello World</h1>
-Thanks for visiting my GitHub!
+Thanks for visiting my GitHub! You'll find some awesome projects I've worked on here! Feel free to contact me with any questions or inquiries. 
 <h2>Jose Luis Santiago</h2>
 <h3>Software Engineer</h3>
 <h3>Los Angeles California</h3>
